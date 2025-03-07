@@ -35,7 +35,7 @@ To install the required libraries, you can use the following command:
 
 ### 1. Clone this repository to your local machine:
 
-git clone https://github.com/your-username/gesture-rock-paper-scissors.git
+        git clone https://github.com/your-username/gesture-rock-paper-scissors.git
 
 ### 2. Navigate to the project directory:
 
@@ -43,7 +43,7 @@ git clone https://github.com/your-username/gesture-rock-paper-scissors.git
 
 ### 3. Run the main application script:
 
-python gui.py
+        python gui.py
 
 ### 4. Follow the on-screen instructions to play the game using hand gestures.
 
